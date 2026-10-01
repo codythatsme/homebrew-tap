@@ -1,6 +1,6 @@
 cask "cc" do
-  version "0.44.0"
-  sha256 "63a58f6a8aca7a8aa2ce4e82d42426c583edb2d7e665a9a76b11582571c3f661"
+  version "0.44.1"
+  sha256 "06887d10100c8acea8c0236821af48c080aa1b648890e9bb72cfdc76e2cd8c19"
 
   url "https://github.com/codythatsme/cc/releases/download/v#{version}/cc-#{version}-arm64.zip"
   name "cc"
